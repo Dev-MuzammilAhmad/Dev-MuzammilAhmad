@@ -33,22 +33,37 @@ applications.
 
 ## Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,cpp,sql" alt="Languages" />
 </p>
 
-## Frameworks & Libraries
+## MERN Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,supabase,numpy,pandas,sklearn" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,tailwind" alt="MERN Stack" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" alt="Databases" />
+</p>
+
+## AI/ML Stack
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
 </p>
 
 ## Development Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,anaconda,jupyter,npm,vercel" />
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,vercel" alt="Development Tools" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
 </p>
-
 ------------------------------------------------------------------------
 
 ## Software Engineering Foundation
