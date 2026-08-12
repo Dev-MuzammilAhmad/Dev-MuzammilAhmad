@@ -33,31 +33,21 @@ applications.
 
 ## Languages
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=js,python,cpp,sql" alt="Languages" />`{=html}
-```{=html}
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
 </p>
-```
+
 ## Frameworks & Libraries
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,supabase,numpy,pandas,sklearn" alt="Frameworks and Libraries" />`{=html}
-```{=html}
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql,firebase,supabase,numpy,pandas,sklearn" />
 </p>
-```
+
 ## Development Tools
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,anaconda,jupyter,npm,vercel" alt="Development Tools" />`{=html}
-```{=html}
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,anaconda,jupyter,npm,vercel" />
 </p>
-```
 
 ------------------------------------------------------------------------
 
